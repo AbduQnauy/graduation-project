@@ -1,0 +1,180 @@
+
+/* start main rules    #a133b7 */
+body {
+	
+	font-size: 14px;
+
+
+}
+
+/*asterisk S start*/
+.asterisk
+{
+    
+    font-size: 20px;
+    /*position: absolute;
+    /*right: 20px;
+    top: 8px0;*/
+    color: #922323;
+
+}
+
+
+
+
+
+/*asterisk S end*/
+
+/* end main rules*/
+
+/*start login form*/ 
+.login {
+	width:500px ;
+	/*height:500px;*/
+    margin:100px auto;
+}
+.login input {
+	margin-bottom:10px;
+}
+.login .form-control
+{
+	background-color:RGB(254, 254, 254);
+}
+
+ .btn{
+	background-color:#414bb7;
+}
+
+
+.login .h3{
+	color:#5900C6;
+}
+/* end login form */
+
+
+
+
+  
+/*start bootstrap design By css*/
+.navbar {
+    border-radius: 0px ;
+    margin-bottom: 0px;
+}
+.nav > li > a ,
+.navbar-brand {
+    
+    padding: 15px 12px;
+}
+.navbar-brand {font-size: 1em;}
+  
+
+ 
+
+
+    
+ .navbar-inverse .navbar-nav > .open > a, 
+ .navbar-inverse .navbar-nav > .open > a:focus, 
+ .navbar-inverse .navbar-nav > .open > a:hover ,
+ .dropdown-menu
+ {
+       background-color: RGBA(180, 206, 187, 0.4);    
+ }
+ .dropdown-menu
+ {
+    min-width: 180px;
+    padding: 0 ;
+    font-size: 1em;
+    border: none;
+    border-radius: 0;
+   
+    /*box-shadow: 0;*/
+
+ }
+ .dropdown-menu > li > a:focus, 
+ .dropdown-menu > li > a:hover {
+    color: #130DFF;
+    background-color: RGBA(158, 166, 210, 0.28);
+
+    }
+   
+.dropdown-menu > li > a 
+{
+    color: #050215;
+    padding: 10px 15px;
+    
+}
+
+
+
+
+
+.form-control
+{
+    position: relative;
+
+}
+/* end design bootstrap by css*/
+
+/* start user page layout */
+h1
+{
+    font-size:50px;
+    margin:40px 0;
+    font-weight:bold;
+    color:#888;
+}
+.show-pass 
+{
+    position: absolute;
+    top: 8px;
+    right: -30px;
+}
+.view-btn {     /*which in Add page*/
+    
+    margin-bottom: 40px;
+     }
+/* end user page layout */
+
+/* MANAGE page design start*/
+.main-table tr:first-child td
+{
+  background-color: RGBA(128, 212, 38, 0.6);
+  color: #8F1F1F;
+}
+.btn-success
+{
+  background-color:#4cb741;
+}
+.btn-danger
+{
+  background-color:rgba(201, 48, 44, 0.84);
+}
+.main-table
+{
+    -webkit-box-shadow :0 3px 10px #ccc;
+    -moz-box-shadow :0 3px 10px #ccc;
+    box-shadow :0 3px 10px #ccc;
+}
+.main-table td
+{
+    background-color:#FFF;
+    vertical-align: middle !important;
+}
+.main-table .btn
+{
+    padding: 3px 10px;
+}
+/* MANAGE page design end*/
+div {
+    white-space:normal;
+}
+
+
+
+/*Insert page design start*/
+
+
+
+
+/*Insert page design end*/
+
